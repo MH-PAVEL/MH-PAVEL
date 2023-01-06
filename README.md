@@ -2,7 +2,7 @@
 - I am a MERN stack developer and I use Pure Javascript and Javascript.😉
 - Working as a freelancer and building web applications using - Reactjs,Nodejs,NextJs,MongoDB,Express,GraphQL
 - 👀 I’m interested in learning new tech skills and enrich my programming expertness. 
-- 🌱 I’m currently learning Vue and Angular 
+- 🌱 I’m currently learning c++ 
 - 📫 You can reach me at mhpavel786@gmail.com
 or whats app me at +8801643573332
 
