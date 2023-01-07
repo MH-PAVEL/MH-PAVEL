@@ -13,14 +13,14 @@
 I'm a full stack web developer with a passion for building beautiful and functional websites and applications. I have experience in both front-end and back-end development, and love finding new and creative solutions to problems.
   
 ## Skills
-- Front-end development: HTML, CSS, Bootstrap, Material UI, Talwind css, Scss, JavaScript, React.js, Redux, RTK Query!
+- Front-end development: HTML, CSS, Bootstrap, Material UI, Tailwind CSS, Sass, JavaScript, React.js, Redux, RTK Query!
 - Back-end development: Node.js, Express
 - Databases: Mysql, MongoDB
 - Version control: Git
 
 ## Currently Learning
 - C++
-- Gathering knowledge on devops
+- DevOps
 
 ## Education
 - Pursuing B.Sc. Degree in Computer Science & Engineering from Prime University
@@ -32,8 +32,12 @@ I'm a full stack web developer with a passion for building beautiful and functio
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap5" **alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MaterialUI" **alt="MaterialUI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind CSS" **alt="TailwindCSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" **alt="Sass" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL"  alt="GraphQL" width="40" height="40"/>&nbsp;
@@ -72,8 +76,3 @@ I'm a full stack web developer with a passion for building beautiful and functio
 ## Thank you for considering me for your web development needs. I look forward to the opportunity to work with you and create something amazing!
   
 </div>
-
-<!---
-MH-PAVEL/MH-PAVEL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
