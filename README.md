@@ -10,7 +10,7 @@
 </div>
   
 # Full Stack Web Developer
-I'm a full stack web developer with a passion for building beautiful and functional websites and applications. I have experience in both front-end and back-end development, and love finding new and creative solutions to problems.
+I'm a full-stack web developer with a passion for building beautiful and functional websites and applications. I have experience in both front-end and back-end development, and love finding new and creative solutions to problems.
   
 ## Skills
 - Front-end development: HTML, CSS, Bootstrap, Material UI, Tailwind CSS, Sass, JavaScript, React.js, Redux, RTK Query!
@@ -20,7 +20,7 @@ I'm a full stack web developer with a passion for building beautiful and functio
 
 ## Currently Learning
 - C++
-- DevOps
+- Dart
 
 ## Education
 - Pursuing B.Sc. Degree in Computer Science & Engineering from Prime University
