@@ -5,7 +5,7 @@
     Hey there! I'm Pavel
   </h1>
   
-  <img src="https://media.giphy.com/media/DCBuTtOtzhrGK5sdNv/giphy.gif"/><br/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/><br/>
   
 </div>
   
