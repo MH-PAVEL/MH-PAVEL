@@ -21,6 +21,7 @@ I'm a full-stack web developer with a passion for building beautiful and functio
 ## Currently Learning
 - C++
 - Dart
+- Flutter
 
 ## Education
 - Pursuing B.Sc. Degree in Computer Science & Engineering from Prime University
