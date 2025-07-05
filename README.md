@@ -68,9 +68,9 @@ I'm a full-stack web developer with a passion for building beautiful and functio
   <a href="https://wa.me/1643573332" target="_blank">
     <img src="https://img.shields.io/badge/Whatsapp-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
-<!--   <a href="https://www.linkedin.com/in/mh-pavel" target="_blank">
+  <a href="https://www.linkedin.com/in/mh-pavel/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> -->
+  </a>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=mh-pavel&style=flat-square&color=blue" alt="view-count" />
   
