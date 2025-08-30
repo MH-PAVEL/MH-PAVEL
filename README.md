@@ -2,78 +2,134 @@
   
   <h1>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
-    Hey there! I'm Pavel
+    Hey there, I'm Pavel
   </h1>
   
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/><br/>
+  <p>
+    🚀 Backend Developer | ⚙️ DevOps Enthusiast | ☁️ Cloud Explorer
+  </p>
   
-</div>
-  
-# Full Stack Web Developer
-I'm a full-stack web developer with a passion for building beautiful and functional websites and applications. I have experience in both front-end and back-end development, and love finding new and creative solutions to problems.
-  
-## Skills
-- Front-end development: HTML, CSS, Bootstrap, Material UI, Tailwind CSS, Sass, JavaScript, React.js, Next.js, Redux, RTK Query!
-- Back-end development: Express.js, Flask
-- Databases: Mysql, MongoDB, PostgreSQL
-- Version control: Git
-
-## Currently Learning
-- Machine Learning theories and Algorithms 
-- Devops 
-- NLP
-
-## Education
-- Pursuing B.Sc. Degree in Computer Science & Engineering from Prime University
-- Completed coursework in web development, data structures, algorithms, and software engineering!
-
-### :hammer_and_wrench: Languages and Tools I can Use Efficiently :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap5" **alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MaterialUI" **alt="MaterialUI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind CSS" **alt="TailwindCSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" **alt="Sass" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL"  alt="GraphQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTQ4OWNiNnVkNGlsczRwcm04OHIyZnN4NDdqZWt0YTYxZmFydTIwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="250"/>
+ 
 </div>
 
-<div align="center" width="100%">
-
-## :white_check_mark: 4+ Years of Experience in freelancing platforms :trophy: :1st_place_medal:
 ---
-### :fire: My Stats :fire:
+
+## 👨‍💻 About Me  
+
+I’m a backend-focused developer with **4+ years of experience** crafting **APIs, scalable systems, and cloud-ready applications**.  
+I’ve worked with **startups and international clients**, turning complex problems into **clean, efficient, and production-ready solutions**.  
+
+🔹 Passionate about **system design, scalability, and automation**  
+🔹 Experienced in leading small teams and delivering full-stack solutions  
+🔹 Currently diving deeper into **DevOps & Cloud-native development**  
+
 ---
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mh-pavel&theme=dark&background=000000)](https://git.io/streak-stats)
-  <br/>
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mh-pavel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mh-pavel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
-  ## Contact
-  Feel free to reach out to me if you have any questions or would like to collaborate on a project.
-  [Email me.](mailto:mhpavel786@gmail.com)
-    
-  <a href="https://www.facebook.com/mahamudulhasan.sahir" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-  <a href="https://wa.me/1643573332" target="_blank">
-    <img src="https://img.shields.io/badge/Whatsapp-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mh-pavel/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=mh-pavel&style=flat-square&color=blue" alt="view-count" />
-  
-## Thank you for considering me for your web development needs. I look forward to the opportunity to work with you and create something amazing!
-  
+
+## ⚡ Tech Stack & Skills  
+
+### 🛠️ **Backend Development**  
+- **Node.js**, **Express.js**, **Flask**  
+- **REST APIs**, **GraphQL**, **Microservices**  
+- **Authentication & Security** → JWT, OAuth, RBAC  
+- **API Documentation** → Swagger / OpenAPI  
+
+### ☁️ **DevOps & Cloud**  
+- **Docker**, **CI/CD Pipelines** (GitHub Actions, GitLab CI, Jenkins)  
+- **AWS**, **Azure**  
+
+### 🗄️ **Databases**  
+- **MongoDB**, **PostgreSQL**, **MySQL**, **Redis**  
+
+### 💻 **Languages**  
+- **JavaScript (ES6+)**, **TypeScript**, **Python**  
+- *(Learning Go for high-performance backend systems)*  
+
+### 🎨 **Frontend (Supporting Skills)**  
+- React.js, Next.js, Redux, RTK Query  
+- Tailwind CSS, Material UI, Bootstrap, Sass  
+
+### 🧰 **Tools & Practices**  
+- Git, GitHub, GitLab  
+- Agile / Scrum workflows  
+
+---
+
+## 🌱 Currently Leveling Up  
+📌 **Kubernetes** & Container Orchestration  
+📌 **Infrastructure as Code** (Terraform, Ansible)  
+📌 **Monitoring & Logging** (Prometheus, Grafana, ELK)  
+📌 **Machine Learning & NLP integrations**  
+
+---
+
+## 🚀 Featured Work  
+
+💡 **Evoked.ai (UK Startup)** – Led backend & AI integration for a perfume-based e-commerce platform.  
+- Built a **Gen AI-powered chatbot** that recommends perfumes  
+- Designed a **daily journal feature** where users log fragrance experiences  
+- Managed **backend (Express & Flask)**, team workflows, and **CI/CD deployments**  
+
+🌍 **Freelancing (4+ Years)** – Delivered projects worldwide:  
+- Scalable backend APIs for SaaS products  
+- E-commerce integrations with payment gateways  
+- Cloud deployments with **AWS & Azure**  
+
+---
+
+## 🎓 Education  
+
+🎓 Final Year B.Sc. Student in Computer Science & Engineering — *Prime University*  
+📚 Learned the essentials: coding, debugging, and occasionally surviving Data Structures & Algorithms 😅  
+
+💡 Beyond classrooms, I’ve also been a lifelong learner — docs, side projects, communities…  
+But let’s be honest, I’ve probably learned **just as much (if not more) from YouTube tutorials** 🎥😂  
+
+
+## 📚 Books on My Shelf  
+
+I like diving into books that sharpen my craft and challenge my thinking.  
+Some titles that currently live on my shelf (read, unread, re-read…🤔):  
+
+- *Clean Code* — Robert C. Martin  
+- *The Clean Coder* — Robert C. Martin  
+- *System Design Interview Vol. I & II* — Alex Xu  
+- *Designing Data-Intensive Applications* — Martin Kleppmann  
+- *Building Microservices* — Sam Newman  
+- *Head First Design Patterns* — Eric Freeman & Elisabeth Robson  
+
+---
+
+<div align="center">
+
+## 🔥 GitHub Stats  
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mh-pavel&theme=dark&background=000000)](https://git.io/streak-stats)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mh-pavel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mh-pavel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
+
 </div>
+
+<div align="center">
+
+## 📬 Let’s Connect  
+
+<a href="https://www.linkedin.com/in/mh-pavel/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:mhpavel786@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://wa.me/1643573332">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+<a href="https://www.facebook.com/mahamudulhasan.sahir">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+
+<br/><br/>
+
+✨ *Always open to collaborating on backend systems, cloud projects, or DevOps pipelines. Let’s build something amazing together!* ✨  
+
+</div>
+
