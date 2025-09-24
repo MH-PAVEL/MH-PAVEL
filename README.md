@@ -6,7 +6,7 @@
   </h1>
   
   <p>
-    🚀 Backend Developer | ⚙️ DevOps Enthusiast | ☁️ Cloud Explorer
+    🚀 Backend Developer | 🤖 AI/LLM Integrations | ☁️ Cloud & CI/CD
   </p>
   
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTQ4OWNiNnVkNGlsczRwcm04OHIyZnN4NDdqZWt0YTYxZmFydTIwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="250"/>
@@ -17,33 +17,69 @@
 
 ## 👨‍💻 About Me  
 
-I’m a backend-focused developer with **4+ years of experience** crafting **APIs, scalable systems, and cloud-ready applications**.  
-I’ve worked with **startups and international clients**, turning complex problems into **clean, efficient, and production-ready solutions**.  
+I’m a backend-focused developer with 5+ years shipping APIs, scalable systems, and cloud-ready apps for startups and international clients. I care about clean architecture, system design, and pragmatic delivery, from MVP to production scale.
 
-🔹 Passionate about **system design, scalability, and automation**  
-🔹 Experienced in leading small teams and delivering full-stack solutions  
-🔹 Currently diving deeper into **DevOps & Cloud-native development**  
+🔹 Strong in API design, microservices, event-driven systems, and DevOps automation
+
+🔹 Experienced leading small teams, owning end-to-end delivery (backend → frontend → CI/CD → cloud)
+
+🔹 Love building AI/LLM features (chatbots, RAG, vector search) that actually move the needle
 
 ---
 
 ## ⚡ Tech Stack & Skills  
 
 ### 🛠️ **Backend Development**  
-- **Node.js**, **Express.js**, **Flask**  
-- **REST APIs**, **GraphQL**, **Microservices**  
-- **Authentication & Security** → JWT, OAuth, RBAC  
-- **API Documentation** → Swagger / OpenAPI  
+* **Node.js** (Express.js, NestJS), **Python** (Flask, FastAPI), **Go** 
+* **API Design:** REST, GraphQL, **gRPC**
+* **Microservices & Architecture:** service decomposition, domain modeling, **system design**
+* **Auth & Security:** JWT, OAuth2, RBAC, rate-limiting, encryption
+* **Docs:** **Swagger / OpenAPI**
 
-### ☁️ **DevOps & Cloud**  
-- **Docker**, **CI/CD Pipelines** (GitHub Actions, GitLab CI, Jenkins)  
-- **AWS**, **Azure**  
+### 🗄 Datastores & Search
 
-### 🗄️ **Databases**  
-- **MongoDB**, **PostgreSQL**, **MySQL**, **Redis**  
+* **MongoDB**, **PostgreSQL**, **MySQL**, **Redis**
+* **Elasticsearch** (search/analytics)
+
+### 🔄 Messaging, Events & Real-Time
+
+* **RabbitMQ**, **Kafka**
+* WebSockets, **Socket.IO**
+
+### 🤖 AI / LLM / Automation
+
+* **OpenAI APIs:** GPT, Whisper, DALL·E
+* **LangChain**, **RAG pipelines**
+* **Vector DBs:** **Pinecone**, **ChromaDB**
+* **Use cases:** AI chatbots, assistants, content generation, retrieval-augmented apps
+
+### 🌐 Frontend (supporting full-stack)
+
+* **React**, **Next.js**, Redux, RTK Query
+* Tailwind CSS, Material UI, Bootstrap, Sass
+
+### ☁️ Cloud, DevOps & Ops
+
+* **AWS** (EC2, S3, Lambda, Elastic Beanstalk), **Azure**
+* **Docker**, CI/CD (**GitHub Actions**, **GitLab CI**, **Jenkins**)
+* PM2, **Nginx**, domain & SSL, blue/green & rolling deploys
+* **Monitoring & Logging:** Prometheus, Grafana, **ELK**
+* *(Exploring/next up: IaC with Terraform/Ansible; K8s as needed)*
+
+### 🧰 Data & Web Automation
+
+* **Web Scraping:** **Puppeteer**, **Selenium**, BeautifulSoup
+* ETL/ingest pipelines, scheduled jobs, data enrichment
+
+### 🧩 Design & Modeling
+
+* **System Design**, **Database Design**, **ER Diagrams**
+* Schema optimization, indexing, query/perf tuning
+
+
 
 ### 💻 **Languages**  
-- **JavaScript (ES6+)**, **TypeScript**, **Python**  
-- *(Learning Go for high-performance backend systems)*  
+- **JavaScript (ES6+)**, **TypeScript**, **Python**, **GoLang**  
 
 ### 🎨 **Frontend (Supporting Skills)**  
 - React.js, Next.js, Redux, RTK Query  
@@ -59,7 +95,7 @@ I’ve worked with **startups and international clients**, turning complex probl
 📌 **Kubernetes** & Container Orchestration  
 📌 **Infrastructure as Code** (Terraform, Ansible)  
 📌 **Monitoring & Logging** (Prometheus, Grafana, ELK)  
-📌 **Machine Learning & NLP integrations**  
+📌 **Machine Learning & Advanced NLP integrations**  
 
 ---
 
