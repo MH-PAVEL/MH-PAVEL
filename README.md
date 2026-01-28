@@ -30,7 +30,7 @@ I’m a backend-focused developer with 5+ years shipping APIs, scalable systems,
 ## ⚡ Tech Stack & Skills  
 
 ### 🛠️ **Backend Development**  
-* **Node.js** (Express.js, NestJS), **Python** (Flask, FastAPI), **Go** 
+* **Node.js** (Express.js, NestJS), **Python** (Flask, FastAPI)
 * **API Design:** REST, GraphQL, **gRPC**
 * **Microservices & Architecture:** service decomposition, domain modeling, **system design**
 * **Auth & Security:** JWT, OAuth2, RBAC, rate-limiting, encryption
@@ -64,7 +64,7 @@ I’m a backend-focused developer with 5+ years shipping APIs, scalable systems,
 * **Docker**, CI/CD (**GitHub Actions**, **GitLab CI**, **Jenkins**)
 * PM2, **Nginx**, domain & SSL, blue/green & rolling deploys
 * **Monitoring & Logging:** Prometheus, Grafana, **ELK**
-* *(Exploring/next up: IaC with Terraform/Ansible; K8s as needed)*
+* *(Exploring/next up: IaC with Terraform/Ansible; K8s)*
 
 ### 🧰 Data & Web Automation
 
@@ -79,11 +79,11 @@ I’m a backend-focused developer with 5+ years shipping APIs, scalable systems,
 
 
 ### 💻 **Languages**  
-- **JavaScript (ES6+)**, **TypeScript**, **Python**, **GoLang**  
+- **JavaScript (ES6+)**, **TypeScript**, **Python**
 
 ### 🎨 **Frontend (Supporting Skills)**  
-- React.js, Next.js, Redux, RTK Query  
-- Tailwind CSS, Material UI, Bootstrap, Sass  
+- React.js, Next.js, Redux, Zustand 
+- Tailwind CSS, Material UI, Bootstrap, Sass/Scss 
 
 ### 🧰 **Tools & Practices**  
 - Git, GitHub, GitLab  
