@@ -94,7 +94,7 @@ I’m a backend-focused developer with 5+ years shipping APIs, scalable systems,
 ## 🌱 Currently Leveling Up  
 📌 **Kubernetes** & Container Orchestration  
 📌 **Infrastructure as Code** (Terraform, Ansible)  
-📌 **Monitoring & Logging** (Prometheus, Grafana, ELK)  
+📌 **Monitoring & Logging** (Prometheus, Grafana)  
 📌 **Machine Learning & Advanced NLP integrations**  
 
 ---
