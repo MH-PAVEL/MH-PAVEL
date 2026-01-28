@@ -61,7 +61,7 @@ I’m a backend-focused developer with 5+ years shipping APIs, scalable systems,
 ### ☁️ Cloud, DevOps & Ops
 
 * **AWS** (EC2, S3, Lambda, Elastic Beanstalk), **Azure**
-* **Docker**, CI/CD (**GitHub Actions**, **GitLab CI**, **Jenkins**)
+* **Docker**, CI/CD (**GitHub Actions**, **GitLab CI**)
 * PM2, **Nginx**, domain & SSL, blue/green & rolling deploys
 * **Monitoring & Logging:** Prometheus, Grafana, **ELK**
 * *(Exploring/next up: IaC with Terraform/Ansible; K8s)*
