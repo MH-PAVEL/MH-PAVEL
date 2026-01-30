@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me  
 
-I’m a backend-focused developer with 5+ years shipping APIs, scalable systems, and cloud-ready apps for startups and international clients. I care about clean architecture, system design, and pragmatic delivery, from MVP to production scale.
+I’m a backend-focused developer with 3+ years shipping APIs, scalable systems, and cloud-ready apps for startups and international clients. I care about clean architecture, system design, and pragmatic delivery, from MVP to production scale.
 
 🔹 Strong in API design, microservices, event-driven systems, and DevOps automation
 
@@ -60,7 +60,7 @@ I’m a backend-focused developer with 5+ years shipping APIs, scalable systems,
 
 ### ☁️ Cloud, DevOps & Ops
 
-* **AWS** (EC2, S3, Lambda, Elastic Beanstalk), **Azure**
+* **AWS** (EC2, S3, Lambda), **Azure**
 * **Docker**, CI/CD (**GitHub Actions**, **GitLab CI**)
 * PM2, **Nginx**, domain & SSL, blue/green & rolling deploys
 * **Monitoring & Logging:** Prometheus, Grafana, **ELK**
@@ -108,14 +108,15 @@ I’m a backend-focused developer with 5+ years shipping APIs, scalable systems,
 
 🌍 **Freelancing (4+ Years)** – Delivered projects worldwide:  
 - Scalable backend APIs for SaaS products  
-- E-commerce integrations with payment gateways  
+- E-commerce integrations with payment gateways
+- Optimized backend systems for high-concurrency environments through caching strategies, query optimization, rate limiting, and horizontal scaling techniques
 - Cloud deployments with **AWS & Azure**  
 
 ---
 
 ## 🎓 Education  
 
-🎓 Final Year B.Sc. Student in Computer Science & Engineering — *Prime University*  
+🎓 B.Sc. in Computer Science & Engineering — *Prime University*  
 📚 Learned the essentials: coding, debugging, and occasionally surviving Data Structures & Algorithms 😅  
 
 💡 Beyond classrooms, I’ve also been a lifelong learner — docs, side projects, communities…  
